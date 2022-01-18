@@ -70,3 +70,30 @@ sonuc = !(x > z);
 
 console.log(sonuc);
 console.log(typeof sonuc);
+
+
+
+var d = new Date();
+console.log(d);
+
+
+ d.setFullYear(2020,12,23);
+
+
+ console.log(d.getFullYear);
+
+ console.log(d.getMonth);
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
